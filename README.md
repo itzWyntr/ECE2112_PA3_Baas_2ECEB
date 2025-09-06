@@ -76,7 +76,7 @@ c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
 
 d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
-Reminder: 
+STEPS:
 
 1. Initially, repeat the first 2 steps of problem 1
 
@@ -120,7 +120,7 @@ print("The car's gears and cylinders are: ")
 pd.concat([Mazda, Ford, Honda])
 ```
 
-Lastly, to save as a .py file
+2. Lastly, to save as a .py file
 ```
 !jupyter nbconvert --to script "PA3.2.ipynb"
 ```
