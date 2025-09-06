@@ -78,7 +78,7 @@ d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do t
 
 STEPS:
 
-1. Initially, repeat the first 2 steps of problem 1
+Initially, repeat the first 2 steps of problem 1
 
 For a.
 
@@ -120,7 +120,7 @@ print("The car's gears and cylinders are: ")
 pd.concat([Mazda, Ford, Honda])
 ```
 
-2. Lastly, to save as a .py file
+Lastly, to save as a .py file
 ```
 !jupyter nbconvert --to script "PA3.2.ipynb"
 ```
