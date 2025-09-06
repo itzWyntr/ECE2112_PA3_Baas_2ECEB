@@ -16,7 +16,7 @@ PA3.2:
 
 .py Files: 
 
-PA3.1:
+PA3.1: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.1.py
 
 PA3.2: 
 
