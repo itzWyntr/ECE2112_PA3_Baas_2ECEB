@@ -60,6 +60,11 @@ print("The first and last 5 cars are:")
 display
 ```
 
+5. To save as a .py file
+```python
+!jupyter nbconvert --to script "PA3.1.ipynb"
+```
+
 ### Problem 2: 
 Problem 2 is divided into 5 different parts:
 
@@ -109,12 +114,16 @@ Mazda = cars.loc[cars["Model"]== 'Mazda RX4 Wag', ['Model','cyl', 'gear']] #For 
 Ford = cars.loc[cars["Model"]== 'Ford Pantera L', ['Model','cyl', 'gear']] #For 'Ford Pantera L'
 Honda = cars.loc[cars["Model"]== 'Honda Civic', ['Model','cyl', 'gear']] #For 'Honda Civic'
 ```
-2. Concatantinate (.concat) is used to combine all the results
+2. Concatenate (.concat) is used to combine all the results
 ```python
 print("The car's gears and cylinders are: ")
 pd.concat([Mazda, Ford, Honda])
 ```
 
+Lastly, to save as a .py file
+```
+!jupyter nbconvert --to script "PA3.2.ipynb"
+```
 
 
 
