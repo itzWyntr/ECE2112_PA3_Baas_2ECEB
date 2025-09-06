@@ -10,9 +10,15 @@ Pandas Library
 
 ## Programming Assignment 3
 
-PA3.1: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.1.ipynb
+PA3.1: 
 
-PA3.2: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.2.ipynb
+PA3.2: 
+
+.py Files: 
+
+PA3.1:
+
+PA3.2: 
 
 ## Table of Contents
 
