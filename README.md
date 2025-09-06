@@ -10,7 +10,7 @@ Pandas Library
 
 ## Programming Assignment 3
 
-PA3.1: 
+PA3.1: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.1.ipynb
 
 PA3.2: 
 
