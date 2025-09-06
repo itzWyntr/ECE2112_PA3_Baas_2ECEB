@@ -26,7 +26,7 @@ Objectives: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.
 
 Programming Assignment 3: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.md#programming-assignment-3
 
-Problems: 
+Problems: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.md#problems
 
   Problem 1:
   
