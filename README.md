@@ -18,7 +18,7 @@ PA3.2: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.2.ipynb
 
 PA3.1: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.1.py
 
-PA3.2: 
+PA3.2: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.2.py
 
 ## Table of Contents
 
