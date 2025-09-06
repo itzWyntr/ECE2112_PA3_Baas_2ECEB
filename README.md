@@ -22,7 +22,9 @@ PA3.2: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/PA3.2.py
 
 ## Table of Contents
 
-Objectives: 
+Objectives: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.md#objectives
+
+Programming Assignment 3: 
 
 Programming Assignments:
 
