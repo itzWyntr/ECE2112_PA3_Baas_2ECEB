@@ -30,7 +30,7 @@ Problems: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.md
 
   Problem 1: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.md#problem-1
   
-  Problem 2: 
+  Problem 2: https://github.com/itzWyntr/ECE2112_PA3_Baas_2ECEB/blob/main/README.md#problem-2
 
 ## Problems
 
